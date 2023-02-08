@@ -8,13 +8,11 @@ I am still fairly new and inexperienced when it comes to electronics and PCB des
 
 ## QDev Tiny
 
-```markdown
 | Revision        | 1                 |
 | Microcontroller | ATtiny25/45/85-PU |
 | ISP Connector   | Yes               |
 | USB Support     | Yes (software)    |
 | GPIO Count      | 6 (1 passive)     |
-```
 
 ### Description
 
@@ -22,13 +20,11 @@ QDevTiny is a small board that is built around the Atmel ATTiny25/45/85 microcon
 
 ### Supported Microcontroller Chips
 
-```
 | Microcontroller   | Flash | SRAM | EEPROM |
 | ----------------- | ----- | ---- | ------ |
 | ATtiny25          | 2KB   | 128B | 128B   |
 | ATtiny45          | 4KB   | 256B | 256B   |
 | ATtiny85          | 8KB   | 512B | 512B   |
-```
 
 ### Images
 
