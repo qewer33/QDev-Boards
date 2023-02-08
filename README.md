@@ -9,3 +9,7 @@ I am still fairly new and inexperienced when it comes to electronics and PCB des
 ## QDevTiny `rev 1`
 
 QDevTiny is a small board that is built around the Atmel ATTiny25/45/85 microcontroller. It has an 8 pin header, 6 of them being GPIO pins. It also includes an ISP programming header for easy use with Atmel programmers. The board has a USB Type-A male edge connector for power and USB programming. USB programming requires the Micronucleus bootloader (which provides software USB support for Atmel microcontrollers) to be flashed.
+
+![](https://github.com/qewer33/QDev-Boards/blob/main/assets/qdevtiny-3d-board.png?raw=true)
+
+![](https://github.com/qewer33/QDev-Boards/blob/main/assets/qdevtiny-pcb-board.png?raw=true)
