@@ -8,6 +8,8 @@ I am still fairly new and inexperienced when it comes to electronics and PCB des
 
 ## QDev Tiny
 
+| <!-- -->        | <!-- -->          |
+| --------------- | ----------------- |
 | Revision        | 1                 |
 | Microcontroller | ATtiny25/45/85-PU |
 | ISP Connector   | Yes               |
