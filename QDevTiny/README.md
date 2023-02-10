@@ -1,6 +1,6 @@
 ## QDev Tiny
 
-| QDev Tiny                           |
+| Property        | Value             |
 | --------------- | ----------------- |
 | Revision        | 1                 |
 | Microcontroller | ATtiny25/45/85-PU |
